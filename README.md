@@ -4,7 +4,7 @@ This repository contains all the assignments for the CS208 - Machine Learning fo
 
 ## Table of Contents
 This repo contains assignments related to the following Machine Learning algorithm:
-- [Decision Tree - Random Forest](decision_tree.ipynb)
+- [Decision Tree - Random Forest](decision-tree.ipynb)
 - [Deep Learning](deep-learning)
 - [K-means Clustering](k-mean-clustering.ipynb)
 - [Naive Bayes](naive-bayes.ipynb)
